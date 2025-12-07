@@ -127,4 +127,32 @@ All three systems work independently but can be combined to form a **complete Sm
 ---
 
 ## 📁 Folder Structure
+```
+Smart_Home_Automation_System_Using_Cisco_Packet_Tracer/
+│
+├── Screenshot of project/
+├── .gitattributes
+├── Home Automation System.pkt
+├── Smart Lamp Automation.pkt
+├── Smoke Detection & Emergency Alert System.pkt
+└── README.md
+```
+## 🏁 Conclusion
 
+This Smart Home Automation System successfully demonstrates:
+
+✔ Smoke detection and fire safety  
+✔ Intelligent home appliance control  
+✔ Motion-based lighting  
+✔ IoT-based centralized management  
+✔ Real-world automation using Cisco Packet Tracer  
+
+It's a complete demonstration of **IoT, networking, automation, and real-time response systems**.
+
+---
+
+## 👤 Developer  
+```
+**Rushikesh Sable**  
+MIT AOE 
+```
