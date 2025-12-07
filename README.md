@@ -40,7 +40,7 @@ This system detects smoke in different rooms and triggers an emergency response 
 
 ### 📸 Screenshot  
 <p align="center">
-  <img src="Screenshots/Screenshot%202025-12-07%20120953.png" width="800">
+  <img src="Screenshot of project/Screenshot%202025-12-07%20120953.png" width="800">
 </p>
 
 ---
