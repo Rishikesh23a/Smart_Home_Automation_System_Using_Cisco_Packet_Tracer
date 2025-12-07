@@ -68,7 +68,7 @@ This system automates home appliances using sensors and smartphones.
 
 ### 📸 Screenshot  
 <p align="center">
-  <img src="Screenshots/Screenshot%202025-12-07%20121035.png" width="800">
+  <img src="Screenshot of project/Screenshot%202025-12-07%20121035.png" width="800">
 </p>
 
 ---
@@ -93,7 +93,7 @@ A simple but powerful lighting automation system based on motion detection.
 
 ### 📸 Screenshot  
 <p align="center">
-  <img src="Screenshots/Screenshot%202025-12-07%20121115.png" width="800">
+  <img src="Screenshot of project/Screenshot%202025-12-07%20121115.png" width="800">
 </p>
 
 ---
@@ -160,42 +160,4 @@ MIT AOE
 
 ---
 
-### 🔥 1. Smoke Detection & Emergency Alert System
 
-#### 🖼 System Overview
-<p align="center">
-  <img src="Screenshot of project/Screenshot%202025-12-07%20120953.png" width="800">
-</p>
-
-#### 🖼 Fire Sprinklers & Sensors
-<p align="center">
-  <img src="Screenshot of project/Screenshot%202025-12-07%20120940.png" width="800">
-</p>
-
----
-
-### 🏠 2. Home Automation System
-
-#### 🖼 Device Layout (AC, Fan, Lamp, Webcam)
-<p align="center">
-  <img src="Screenshot of project/Screenshot%202025-12-07%20121035.png" width="800">
-</p>
-
-#### 🖼 Smart Controller View
-<p align="center">
-  <img src="Screenshot of project/Screenshot%202025-12-07%20121042.png" width="800">
-</p>
-
----
-
-### 💡 3. Smart Lamp Automation (Motion Based)
-
-#### 🖼 Motion Sensor → Lamp & LED Control
-<p align="center">
-  <img src="Screenshot of project/Screenshot%202025-12-07%20121108.png" width="800">
-</p>
-
-#### 🖼 Lighting Automation Components
-<p align="center">
-  <img src="Screenshot of project/Screenshot%202025-12-07%20121115.png" width="800">
-</p>
