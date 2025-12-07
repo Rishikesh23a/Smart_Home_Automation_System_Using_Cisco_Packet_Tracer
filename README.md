@@ -156,8 +156,3 @@ It's a complete demonstration of **IoT, networking, automation, and real-time re
 **Rushikesh Sable**  
 MIT AOE 
 ```
-## 📸 Project Screenshots
-
----
-
-
